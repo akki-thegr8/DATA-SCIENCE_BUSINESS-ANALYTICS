@@ -6,8 +6,10 @@ Batch: GRIPJANUARY22
 
 Task 1: Prediction using Supervised (Predict the percentage of an student based on the no. of study hours) Using simple linear regression model, forecasting the marks of a student based on the numbers of hours studied per day.
 
-IDE: Jupyter Notebook
+IDE : Jupyter Notebook
 
-Language: Python
+Language : Python
 
-Level: Beginners Level
+Level : Beginners Level
+
+Data sheet : http://bit.ly/w-data
